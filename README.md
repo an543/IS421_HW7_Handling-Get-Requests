@@ -1,1 +1,1 @@
-# IS421_HW7_Handling-Get-Requests
+# IS421_HW6_Database-Model-with-the-Service-Repository-Pattern
